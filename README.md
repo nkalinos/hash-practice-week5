@@ -13,3 +13,4 @@ They've asked you to help them decipher the data, and answer some questions.
 1. Check out `00_example.rb` for an example of what to do (basically, just `puts` things out)
   1. Import the tracker stories in stories.csv and work through them.
   1. Rejoice!
+# hash-practice-week5
